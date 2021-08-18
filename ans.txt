@@ -1,0 +1,2 @@
+student num : 1212
+student name : Amalinga
